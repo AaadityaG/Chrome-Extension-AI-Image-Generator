@@ -1,5 +1,5 @@
 # Chrome Extension : AI-Images-Generator 
-
+A chrome extension where user can generate images with prompts.
 In the production of this project I have used https://huggingface.co/prompthero/openjourney-v4 (api).<br><br>
 How to use it - 
 1. Give the full description of the image in the input bar
